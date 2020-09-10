@@ -1,14 +1,14 @@
 # Site settings
-title: li107
+title: 小李的技术博客
 description: > # 简介
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  您好，欢迎来到我的技术博客，希望在这里能找到你想要的答案！
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://li107.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: li107 # 作者
-  github: github
+  github: li107.github.com
   email: 986185291@qq.com # 邮箱
 
 
