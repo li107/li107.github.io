@@ -5,6 +5,7 @@ subtitle: "对知识有更详细的解释"
 date:   2016-05-20 21:21:21 +0530
 categories: ["学无止境"]
 ---
+
 # 搭建个人技术博客
 
 > 使用 GitHub Pages + Jekyll 快速部署个人博客
@@ -55,9 +56,3 @@ categories: ["学无止境"]
     - 185.199.109.153 le1212123.github.io
 - 2.找不到去DNS服务器找(DNS域名解析)
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
-
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
