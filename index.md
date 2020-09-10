@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p> 世上没难事，只要肯登攀</p>
-	<p>使用来自 <strong> <a href="https://github.com/knhash/Pudhina">li107的主题</a> </strong></p>
+	<p>使用来自 <strong> <a href="https://github.com/knhash/Pudhina">li107</a> </strong>的主题</p>
 </div>
