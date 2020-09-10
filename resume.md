@@ -1,14 +1,14 @@
 ---
 layout: page
-标题: 摘要
-sub标题: 即将步入社会的程序员
+title: 个人介绍
+subtitle: 即将步入社会的程序员
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 以PDF格式下载</strong></a> </span>
 <br>
 
 ### 技能
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+``` 基本掌握HTML、CSS以及初步认识PHP ```  
 
 ### 工程项目
 **衣裤穿搭介绍** - 初学PHP - 学校  <span style="float: right; ">2020.04.08</span>  
@@ -33,15 +33,14 @@ sub标题: 即将步入社会的程序员
 
 ### 个人经验
 
-HTML - **私立华联学院** <span style="float: right; ">2018 ~ 2019</span>  
-_说明 
-
+HTML - **私立华联学院** <span style="float: right; ">2018.9 ~ 2019.6</span>  
+_在老师的教导下掌握基本使用
  
-css - **私立华联学院** <span style="float: right; ">2018 ~ 2019</span>  
-_说明 
+css - **私立华联学院** <span style="float: right; ">2018.9 ~ 2019.6</span>  
+_在老师的教导下掌握基本语法 
 
-PHP - **私立华联学院** <span style="float: right; ">2018 ~ 2019</span>  
-_说明 
+PHP - **私立华联学院** <span style="float: right; ">2018.9 ~ 2019.6</span>  
+_在老师的教导下掌握基本的语法与使用
 
 
 ### 认识 & 兴趣
