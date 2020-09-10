@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博客
+subtitle: 属于小李的个人认识
 ---
 
 <div>
