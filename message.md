@@ -1,7 +1,7 @@
 ---
 layout: self
 title: 留言面板
-subtitle: 欢迎给小李留言，小李会积极改进
+subtitle: 你的留言是对我们最大的鼓励！
 ---
 
 ### 留言
