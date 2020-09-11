@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人介绍
+title: 个人简介
 subtitle: 即将步入社会的程序员
 ---
 

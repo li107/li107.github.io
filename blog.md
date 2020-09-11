@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 博客
-subtitle: 属于小李的个人认识
+subtitle: 该博客注重简洁、效率
 ---
 
 <div>
