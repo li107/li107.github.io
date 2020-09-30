@@ -9,7 +9,6 @@ subtitle: 你的留言是对我们最大的鼓励！
 ### 留言
 ``` 请认真学习 ```  
 
-<!DOCTYPE html>
  <html lang="en">
  <head>
      <meta charset="UTF-8">
@@ -42,4 +41,3 @@ subtitle: 你的留言是对我们最大的鼓励！
     </form>
     </div>
  </body>
- </html>
