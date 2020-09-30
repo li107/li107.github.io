@@ -36,5 +36,4 @@ subtitle: 你的留言是对我们最大的鼓励！
                 <input type="submit" value="提交" />
                 <input type="reset" value="重置" />
             </td>
-    </form>
-    </div>
+        </tr>
