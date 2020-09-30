@@ -25,7 +25,7 @@ subtitle: 你的留言是对我们最大的鼓励！
 
     <div class="ly">
     <h1>添加留言</h1>
-    <form action="" method="post">
+    <form action="" method="get">
         <textarea name="" id="" cols="50" rows="5" ></textarea>
         <p>
             昵称：
