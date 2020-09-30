@@ -21,8 +21,6 @@ subtitle: 你的留言是对我们最大的鼓励！
          }
      </style>
  </head>
- <body>
-
     <div class="ly">
     <h1>添加留言</h1>
     <form action="" method="get">
@@ -40,4 +38,3 @@ subtitle: 你的留言是对我们最大的鼓励！
             </td>
     </form>
     </div>
- </body>
